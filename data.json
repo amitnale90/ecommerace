@@ -1,0 +1,38 @@
+{"products":[
+
+{
+    "id":"0001",
+    "title":"Atomic Habits: The life-changing million copy bestseller",
+    "price": "430",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/51S7KOWir7L._SX526_BO1,204,203,200_.jpg",
+    "rating":5,
+    "desc":"This text is for demo only. This text is for demo only.This text is for demo only.This text is for demo only.This text is for demo only.This text is for demo only.This text is for demo only."
+
+},
+{
+    "id":"0002",
+    "title":"Lyrovo 2 Tire Dish Drainer Basket Kitchen Kitchen Utensils Organizer with Drain Board ( 6 Month Warranty )",
+    "price": "790",
+    "image":"https://m.media-amazon.com/images/I/81+3+Wqf6EL._SX425_.jpg",
+    "rating":4,
+    "desc":"This text is for demo only. This text is for demo only.This text is for demo only.This text is for demo only.This text is for demo only.This text is for demo only.This text is for demo only."
+},
+{
+    "id":"0003",
+    "title":"SanDisk Cruzer Blade 32GB USB Flash Drive",
+    "price": "369",
+    "image":"https://m.media-amazon.com/images/I/61DjwgS4cbL._SX450_.jpg",
+    "rating":5,
+    "desc":"This text is for demo only. This text is for demo only.This text is for demo only.This text is for demo only.This text is for demo only.This text is for demo only.This text is for demo only."
+},
+{
+    "id":"0004",
+    "title":"Vega Crux Black Helmet-M",
+    "price": "1170",
+    "image":"https://m.media-amazon.com/images/I/41oCKGsh-GL._SX355_.jpg",
+    "rating":3,
+    "desc":"This text is for demo only. This text is for demo only.This text is for demo only.This text is for demo only.This text is for demo only.This text is for demo only.This text is for demo only."
+}
+
+
+]}
